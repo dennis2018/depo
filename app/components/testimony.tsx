@@ -39,7 +39,7 @@ export const Testimonials = () => {
       content: (
         <div>
           <p>
-            My cursory audit of <TwitterHandle>@dennismburu201</TwitterHandle>'s depo:
+            My cursory audit of <TwitterHandle>@dennismburu20</TwitterHandle>'s depo:
           </p>
           <p>
             It is light, extremely functional, and does its symmetric block cipher correctly, unique initialization
