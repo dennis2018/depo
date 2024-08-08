@@ -29,7 +29,7 @@ export default function RootLayout({
             <p>
               Built by{" "}
               <Link href="https://twitter.com/dennismburu20" className="font-semibold duration-150 hover:text-zinc-200">
-                developerdennis_
+                developerdennis
               </Link>
               and{" "}
               <Link
