@@ -19,7 +19,7 @@ const navigation = [
   },
   {
     name: "GitHub",
-    href: "https://github.com/chronark/envshare",
+    href: "https://github.com/dennis2018/depo",
     external: true,
   },
 ] satisfies { name: string; href: string; external?: boolean }[];
@@ -31,7 +31,7 @@ export const Header: React.FC = () => {
       <div className="container mx-auto">
         <div className="flex flex-col items-center justify-between gap-2 pt-6 sm:h-20 sm:flex-row sm:pt-0">
           <Link href="/" className="text-2xl font-semibold duration-150 text-zinc-100 hover:text-white">
-            EnvShare
+            Depo
           </Link>
           {/* Desktop navigation */}
           <nav className="flex items-center grow">
