@@ -14,10 +14,6 @@ const navigation = [
   },
 
   {
-    name: "Deploy",
-    href: "/deploy",
-  },
-  {
     name: "GitHub",
     href: "https://github.com/dennis2018/depo",
     external: true,
